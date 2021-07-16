@@ -1,5 +1,6 @@
 {
-  "events": [{
+  "events": [
+    {
       "id": 5928101,
       "user": {
         "id": "abc123",
@@ -12,7 +13,8 @@
       "location": "Meow Town",
       "date": "2019-01-03T21:54:00.000Z",
       "time": "2:00",
-      "attendees": [{
+      "attendees": [
+        {
           "id": "abc123",
           "name": "Adam"
         },
@@ -35,23 +37,24 @@
       "location": "Catlandia",
       "date": "2019-01-31T22:09:00.000Z",
       "time": "7:00",
-      "attendees": [{
-        "id": "abc123",
-        "name": "Adam"
-      },
-      {
-        "id": "abc123",
-        "name": "Adam"
-      },
-      {
-        "id": "abc123",
-        "name": "Adam"
-      },
-      {
-        "id": "abc123",
-        "name": "Adam"
-      }
-    ]
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam"
+        },
+        {
+          "id": "abc123",
+          "name": "Adam"
+        },
+        {
+          "id": "abc123",
+          "name": "Adam"
+        },
+        {
+          "id": "abc123",
+          "name": "Adam"
+        }
+      ]
     },
     {
       "id": 4582797,
@@ -66,19 +69,20 @@
       "location": "Puptown ",
       "date": "2019-02-02T23:27:00.000Z",
       "time": "1:00",
-      "attendees": [{
-        "id": "abc123",
-        "name": "Adam"
-      },
-      {
-        "id": "abc123",
-        "name": "Adam"
-      },
-      {
-        "id": "abc123",
-        "name": "Adam"
-      }
-    ]
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam"
+        },
+        {
+          "id": "abc123",
+          "name": "Adam"
+        },
+        {
+          "id": "abc123",
+          "name": "Adam"
+        }
+      ]
     },
     {
       "id": 3819917,
@@ -131,6 +135,168 @@
       "description": "Don't cut down trees for toilet paper",
       "location": "Boston, MA",
       "date": "2019-10-04T16:27:00.000Z",
+      "time": "19:00",
+      "attendees": []
+    },
+    {
+      "id": 3272012,
+      "user": {
+        "id": "name123",
+        "name": "Adam"
+      },
+      "category": "welfare",
+      "organizer": {
+        "id": "name123",
+        "name": "Adam"
+      },
+      "title": "man",
+      "description": "asdasdasdasd",
+      "location": "cvbcvbvcb",
+      "date": "",
+      "time": "16:00",
+      "attendees": []
+    },
+    {
+      "id": 6469874,
+      "user": {
+        "id": "name123",
+        "name": "Adam"
+      },
+      "category": "animal",
+      "organizer": {
+        "id": "name123",
+        "name": "Adam"
+      },
+      "title": "asdasd",
+      "description": "asdasdasd",
+      "location": "asdasdasd",
+      "date": "",
+      "time": "13:00",
+      "attendees": []
+    },
+    {
+      "id": 7290062,
+      "user": {
+        "id": "name123",
+        "name": "Adam"
+      },
+      "category": "animal",
+      "organizer": {
+        "id": "name123",
+        "name": "Adam"
+      },
+      "title": "asdasdasd",
+      "description": "asdasdasd",
+      "location": "asdasdasd",
+      "date": "",
+      "time": "16:00",
+      "attendees": []
+    },
+    {
+      "id": 4254913,
+      "user": {
+        "id": "name123",
+        "name": "Adam"
+      },
+      "category": "animal",
+      "organizer": {
+        "id": "name123",
+        "name": "Adam"
+      },
+      "title": "yfgh",
+      "description": "fghfghfgh",
+      "location": "fghfghf",
+      "date": "",
+      "time": "16:00",
+      "attendees": []
+    },
+    {
+      "id": 8876778,
+      "user": {
+        "id": "name123",
+        "name": "Adam"
+      },
+      "category": "animal",
+      "organizer": {
+        "id": "name123",
+        "name": "Adam"
+      },
+      "title": "bvnvbn",
+      "description": "vbnvbnvbn",
+      "location": "dfgdfg",
+      "date": "",
+      "time": "17:00",
+      "attendees": []
+    },
+    {
+      "id": 209387,
+      "user": {
+        "id": "name123",
+        "name": "Adam"
+      },
+      "category": "animal",
+      "organizer": {
+        "id": "name123",
+        "name": "Adam"
+      },
+      "title": "hgj",
+      "description": "dfgdfg",
+      "location": "dfgdfg",
+      "date": "",
+      "time": "16:00",
+      "attendees": []
+    },
+    {
+      "id": 3073623,
+      "user": {
+        "id": "name123",
+        "name": "Adam"
+      },
+      "category": "animal",
+      "organizer": {
+        "id": "name123",
+        "name": "Adam"
+      },
+      "title": "mghjg",
+      "description": "fghfgh",
+      "location": "fghfgh",
+      "date": "",
+      "time": "5:00",
+      "attendees": []
+    },
+    {
+      "id": 8578151,
+      "user": {
+        "id": "name123",
+        "name": "Adam"
+      },
+      "category": "animal",
+      "organizer": {
+        "id": "name123",
+        "name": "Adam"
+      },
+      "title": "Working",
+      "description": "fds",
+      "location": "asd",
+      "date": "",
+      "time": "24:00",
+      "attendees": []
+    },
+    {
+      "id": 8248515,
+      "user": {
+        "id": "name123",
+        "name": "Adam"
+      },
+      "category": "animal",
+      "organizer": {
+        "id": "name123",
+        "name": "Adam"
+      },
+      "title": "Hello World",
+      "description": "Kaaaaaa",
+      "location": "acz",
+      "date": "",
       "time": "19:00",
       "attendees": []
     }
